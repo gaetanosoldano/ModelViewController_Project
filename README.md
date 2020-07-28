@@ -1,7 +1,6 @@
 # ModelViewController_Project
 Web application with CRUD operations.
 
-Technologies used;
 • Java
 • Eclipse
 • Maven
